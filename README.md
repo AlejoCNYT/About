@@ -1,1 +1,17 @@
-# About
+# Hello there!!
+I´m Alejo ⭐️
+
+
+
+![Image](https://lh3.googleusercontent.com/pw/ABLVV84gx97SZWwLFemNX9T1jW3R1qLVIYRRQbOcQgO8UXsskeBkS_tJSWFH9gAcbR7HzHzJ68EjsZCOBQ-9Q52HP4q49s4QwCB6PS2HM74USWriDUGXjJ97Kz061c5Sv_0TEZNF5aeDXJJqa040Mk_dLg01W4QHoxT0bTCH3xbkaWbbynSC2klpzosLqzVZoeF2GhUfQoMZsO3HRGZCgLzMETlYE83mWQHjyHe_4OjjcbsXEIqIIaaax73lqLfR40pvTXtmNhhjdZqdxDFZ5WzPJfLZLBoKV4BD-HBhL4GZejhXykWMCBPTAL0SavgXFQZrMDJtXTiDOKStXV8XsOrA7dGS791BM7chIIM3rgfZ5GjoySvR-pef6MPOqbXmeYzfgozfz3DG6UNnJM1hGIUaApikAtsdYCMjNQllP2bleGhwA3l2GGnJItEdBRjjT1-1Mx7D0rmv9emCUEyzeyItPt3ISCFb6NHTVh2lFvVoWGP-geaUB2MaefZx13r6d5NdQLWf9M4soFlmpfgH_rpcw0shPcoV0205_RVAaaiUk6sjahuEyw5mnLm6bjKC721RJ9Y7JJVlwTKa7QULmjREv-DRpRbqVrM-7ymt13HD3QcTTYYhKq-1lOtImqaeTkVVMV6ggTTc-c3m2fnFqx-2rUbW1lNGzoqx0rweZTSYy1HP9upD5snq0LsRKkoLwPk7WyfGaJ6c2KRuPRgMMoODfPY-9hrwPzHyOLLu6pIt56hVceTvjBVi4eyqdQThkhOH5qbuB2-I8nV0PzEwJAgWONvS8toRVED2v-PvQ-gLiZYUL92mPI9bHvfCRl6zFAT03HHHahqBSAoLUuxxDADKHOfSnBZ8aJqGZs6MHsdkTfKOn_bmpt0qBJZ-lE9byRWEIh0HtV6-GsoKmdH8JsBt44Tp1g=w1920-h864-s-no-gm?authuser=0)
+
+# About me
+
+-   🧑‍🏫 I love Maths!
+-   🎥 I enjoy reading, board games and karate.
+
+## Experience
+
+1. Teaching applied mathematics.
+2. Computer lab monitor.
+3. Administrative Assistant.
